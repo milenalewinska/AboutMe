@@ -1,0 +1,9 @@
+Tools:
+1. Git Bash
+2. Trello
+3. Jira
+4. Visual Studio Code
+5. Devtools
+6. Postman
+7. Canva
+8. TestRail
