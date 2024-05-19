@@ -5,12 +5,8 @@ I have actively engaged in several volunteer projects organized by Anna Pieciulk
 
 In my free time I create graphics in Canva. Every two weeks my friend organizes reading classes for children in the library. I help her by creating posters for these events.
 
-Recently I started training in running, specifically 'Slow Jogging'. Slow jogging belongs to running training methods and consists of slow running in which small steps are taken. It is slower than traditional jogging or running typically at a speed where you can maintain a conversation comfortably. The goal is to maintain a "niko niko" pace, which means "smile" in Japanese, where you feel comfortable and can sustain a smile, indicating low stress and enjoyment.
+Recently I started training in running, specifically 'Slow Jogging'. Slow jogging belongs to running training methods and consists of slow running in which small steps are taken. It is slower than traditional jogging or running typically at a speed where you can maintain a conversation comfortably. The goal is to maintain a "niko niko" pace, which means "smile" in Japanese, where you feel comfortable and can sustain a smile, indicating low stress and enjoyment. 
 
-<<<<<<< HEAD
-I like roller skating too.
+I like roller skating too. 
 
-I write lyrics and singing.
-=======
-I like roller skating too. It is very calm. I write lyrics and singing.
->>>>>>> branch1
+I like roller skating too. It is very calm. I write lyrics and singing. 
